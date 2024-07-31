@@ -1,6 +1,6 @@
 # Strucker Incorporated
 
-🎉 Welcome to Strucker Incorporated! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, and **Technical Writing**. 
+🎉 Welcome to Strucker Incorporated 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, and **Technical Writing**. 
 
 Our team is dedicated to delivering innovative solutions and high-quality content to empower your business and enhance your digital presence.
 
