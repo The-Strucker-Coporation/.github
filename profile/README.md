@@ -1,4 +1,4 @@
-# Strucker Incorporated
+# Strucker Corp.
 
 🎉 Welcome to Strucker Incorporated 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, **🔍 Smart Contract Security Audits** and **Technical Writing**. 
 
