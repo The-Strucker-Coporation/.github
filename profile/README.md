@@ -1,13 +1,13 @@
 # Strucker Incorporated
 
-🎉 Welcome to Strucker Incorporated 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, and **Technical Writing**. 
+🎉 Welcome to Strucker Incorporated 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, **🔍 Smart Contract Security Audits** and **Technical Writing**. 
 
 Our team is dedicated to delivering innovative solutions and high-quality content to empower your business and enhance your digital presence.
 
 ## About Us
 
-🌐 **Web Development**  
-Our web development team crafts dynamic and responsive websites tailored to meet your business needs. From custom web applications to e-commerce solutions, we deliver high-performance sites that engage users and drive results.
+🌐 **Application Development**  
+Our Application development team crafts dynamic and responsive websites tailored to meet your business needs. From custom web applications to e-commerce solutions, we deliver high-performance sites that engage users and drive results.
 
 ⛓️ **Blockchain Application Development**  
 We offer specialized services in blockchain technology, including:
@@ -29,11 +29,10 @@ We translate complex technical concepts into comprehensible content that enhance
 
 ## Our Services
 
-- 💻 **Custom Web Development**
-  - 🖥️ **Website Design and Development**
+- 💻 **Custom Application Development**
+  - 🌐 **Web and Mobile Application Design and Development**
   - 🛒 **E-Commerce Solutions**
   - 📋 **Content Management Systems (CMS)**
-  - 🌐 **Web Application Development**
 
 - 🔗 **Blockchain Solutions**
   - 🤖 **Smart Contract Development**
