@@ -63,7 +63,7 @@ Feel free to reach out to us for inquiries, quotes, or consultations. We look fo
 🌟 **Follow Us**  
 Stay updated with our latest news and projects by following us on social media:
 
-- 🐦 **Twitter**: [@StruckerInc](https://twitter.com/thescorp)
+- 🐦 **Twitter**: [@StruckerInc](https://twitter.com/struckercorp)
 - 🔗 **LinkedIn**: [Strucker Incorporated](https://www.linkedin.com/company/scorp)
 
 🤝 **Contributing**  
