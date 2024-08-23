@@ -1,6 +1,6 @@
 # Strucker Corporation.
 
-🎉 Welcome to the Strucker Corporation. 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, **🔍 Smart Contract Security Audits** and **Technical Writing**. 
+🎉 Welcome to The Strucker Corporation. 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, **🔍 Smart Contract Security Audits** and **Technical Writing**. 
 
 Our team is dedicated to delivering innovative solutions and high-quality content to empower your business and enhance your digital presence.
 
@@ -63,8 +63,8 @@ Feel free to reach out to us for inquiries, quotes, or consultations. We look fo
 🌟 **Follow Us**  
 Stay updated with our latest news and projects by following us on social media:
 
-- 🐦 **Twitter**: [@StruckerInc](https://twitter.com/StruckerInc)
-- 🔗 **LinkedIn**: [Strucker Incorporated](https://www.linkedin.com/company/struckerinc)
+- 🐦 **Twitter**: [@StruckerInc](https://twitter.com/thescorp)
+- 🔗 **LinkedIn**: [Strucker Incorporated](https://www.linkedin.com/company/scorp)
 
 🤝 **Contributing**  
 We welcome contributions and collaborations. If you're interested in working with us or contributing to our projects, please contact us at [contribute@struckerinc.com](mailto:contribute@struckerinc.com).
