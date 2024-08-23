@@ -63,11 +63,11 @@ Our technical writing team produces clear, accurate, and user-friendly documenta
 🌟 **Follow Us**  
 **Stay updated with our latest news and projects by following us on social media:**
 
-- 🐦 **Twitter**: [@Struckercorp](https://twitter.com/struckercorp)
-- 🔗 **LinkedIn**: [Strucker corporporated](https://www.linkedin.com/company/scorp)
+- 🐦 **Twitter**: [The Strucker Corporation](https://twitter.com/struckercorp)
+- 🔗 **LinkedIn**: [The Strucker Corporation](https://www.linkedin.com/company/struckercorp)
 
 🤝 **Contributing**  
-We welcome contributions and collaborations. If you're interested in working with us or contributing to our projects, please contact us at [contribute@struckercorp.com](mailto:contribute@struckercorp.com).
+We welcome contributions and collaborations. If you're interested in working with us or contributing to our projects, please contact us at [support@struckercorp.com](mailto:support@struckercorp.com).
 
 💙 **Thank you for visiting us!**
 
