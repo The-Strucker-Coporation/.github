@@ -73,4 +73,4 @@ We welcome contributions and collaborations. If you're interested in working wit
 
 ---
 
-**🔒© 2024 Strucker corporporated . All rights reserved. ⚖️**
+**🔒© 2024 The Strucker Corporation . All rights reserved. ⚖️**
