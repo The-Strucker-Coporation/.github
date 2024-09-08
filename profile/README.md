@@ -1,4 +1,4 @@
-# Strucker Corporation.
+#The Strucker Corporation.
 
 🎉 Welcome to The Strucker Corporation. 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, **🔍 Smart Contract Security Audits** and **Technical Writing**. 
 
@@ -55,7 +55,7 @@ Our technical writing team produces clear, accurate, and user-friendly documenta
 📞 **Contact Us**  
 **Feel free to reach out to us for inquiries, quotes, or consultations. We look forward to collaborating with you!**
 
-- 📧 **Email**: [contact@struckercorp.com](mailto:contact@struckercorp.com)
+- 📧 **Email**: [Mail Us](mailto:contact@struckercorporation.com)
 - 📱 **Phone**: (+254) 011977440
 - 🌐 **Website**: [www.struckercorp.com](http://www.struckercorp.com)
 - 🏢 **Address**: 123 Innovation Drive, Tech City, TC 56789
@@ -67,7 +67,7 @@ Our technical writing team produces clear, accurate, and user-friendly documenta
 - 🔗 **LinkedIn**: [The Strucker Corporation](https://www.linkedin.com/company/struckercorp)
 
 🤝 **Contributing**  
-We welcome contributions and collaborations. If you're interested in working with us or contributing to our projects, please contact us at [support@struckercorp.com](mailto:support@struckercorp.com).
+We welcome contributions and collaborations. If you're interested in working with us or contributing to our projects, please contact us at [support@struckercorp.com](mailto:support@struckercorporation.com).
 
 💙 **Thank you for visiting us!**
 
