@@ -1,6 +1,6 @@
 # **The `Strucker Corporation`**
 
-🎉 Welcome to The Strucker Corporation. 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development**, **🔍 Smart Contract Security Audits** and **Technical Writing**. 
+🎉 Welcome to The Strucker Corporation. 🤝! We are a cutting-edge technology company specializing in **Web Development**, **Blockchain Application Development** and **Technical Writing**. 
 
 Our team is dedicated to delivering innovative solutions and high-quality content to empower your business and enhance your digital presence.
 
@@ -14,7 +14,7 @@ We offer specialized services in blockchain technology, corpluding:
 - 🤖 **Smart Contract Development**
 - 🌐 **Decentralized Applications (dApps)**
 - 🔗 **Blockchain Integration**
-- 🔍 **Security Audits and Consultations**
+
 
 **Our blockchain solutions leverage the latest technologies to ensure security, scalability, and efficiency.**
 
@@ -38,7 +38,7 @@ Our technical writing team produces clear, accurate, and user-friendly documenta
   - 🤖 **Smart Contract Development**
   - 🌐 **Decentralized Applications (dApps)**
   - 🔗 **Blockchain Integration**
-  - 🔍 **Security Audits and Consultations**
+
 
 - 📝 **Technical Documentation**
   - 📖 **User Manuals**
